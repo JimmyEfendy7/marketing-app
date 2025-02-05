@@ -1,6 +1,5 @@
 # Commission Pro - Marketing App
-
-Tes Soal Developer  
+  
 Sistem Manajemen Komisi Marketing
 
 ## Prasyarat
